@@ -179,4 +179,4 @@ docker run -p 8080:8080 -v $(pwd)/data:/app/data kanban-lite
 
 ## License
 
-MIT License © 2025 Your Name
+MIT License © 2025 Salonee Pathan
